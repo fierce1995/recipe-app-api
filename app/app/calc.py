@@ -2,6 +2,7 @@
 Calculator functions
 """
 
+
 def add(a, b):
     """
     :param a: Param a
@@ -9,4 +10,3 @@ def add(a, b):
     :return: Addtion of two result
     """
     return a + b
-

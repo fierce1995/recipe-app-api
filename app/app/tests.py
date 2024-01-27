@@ -15,4 +15,3 @@ class CalcTests(SimpleTestCase):
         """test adding number function"""
         res = calc.add(8, 9)
         self.assertEqual(res, 17)
-
